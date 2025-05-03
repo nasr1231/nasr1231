@@ -66,6 +66,81 @@
   </tbody>
 </table>
 
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Tech Stack Title-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary style="margin-bottom: 50px;">
+      <h1 style="display: inline-block">Tech Arsenal </h1>
+      <picture>
+        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
+      </picture>
+    </summary>
+  </ul>
+</div>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary></ul></div>
+<p>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-29ABCA?logo=pandas&logoColor=fff&style=flat"></a>
+<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%230077B5.svg?&logo=numpy&logoColor=white"></a>
+<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%232768A2.svg?&logo=matplotlib&logoColor=white"></a>
+<a href="https://scikit-learn.org/stable/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23007ACC.svg?&logo=scikit-learn&logoColor=white"></a>
+</p>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary></ul></div>
+<p>
+<a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
+<a href="https://www.oracle.com/database/"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-2088FF?logo=oracle&logoColor=fff&style=flat"></a>
+<!-- <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-29ABCA?logo=sqlite&logoColor=fff&style=flat"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%233174C0?logo=postgresql&logoColor=fff&style=flat"></a> -->
+</p>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🎨 BI & Visualization</h2></summary></ul></div>
+<p>
+  <a href="https://docs.google.com/spreadsheets/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%234285F4.svg?&logo=google-sheets&logoColor=white"></a>
+<a href="https://www.excel-easy.com/"><img alt="Excel" src="https://img.shields.io/badge/Excel-%230078D4.svg?&logo=excel&logoColor=white"></a>
+<a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%233174C0.svg?&logo=tableau&logoColor=white"></a>
+</p>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary></ul></div>
+<p>
+<a href="https://www.kaggle.com/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%230052CC.svg?&logo=kaggle&logoColor=white"></a>
+<a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F39D2B.svg?&logo=jupyter&logoColor=white"></a>
+<a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC.svg?&logo=trello&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
+<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23181717.svg?&logo=pycharm&logoColor=white"></a>
+<a href="https://discordapp.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white"></a>
+<a href="https://www.stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&logo=stack-overflow&logoColor=white"></a>
+<a href="https://www.w3schools.com/"><img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-%231E84D0.svg?&logo=w3schools&logoColor=white"></a>
+<a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%236495ED.svg?&logo=geeksforgeeks&logoColor=white"></a>
+</p>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🕹️ Competitive Programming & Problem Solving</h2></summary></ul></div>
+<p>
+<a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
+<a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
+<a href="https://sqlzoo.net/"><img alt="SQLZoo" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
+<a href="https://www.datalemur.com/"><img alt="DataLemur" src="https://img.shields.io/badge/DataLemur-%23E6425E.svg?&logo=datalemur&logoColor=white"></a>
+<a href="https://stratascratch.com/"><img alt="StrataScratch" src="https://img.shields.io/badge/Strata%20Scratch-%231EA5F9.svg?&logo=stratascratch&logoColor=white"></a>
+<a href="https://sqlbolt.com/"><img alt="SQLBolt" src="https://img.shields.io/badge/SQLBolt-%231FAD91.svg?&logo=sqlbolt&logoColor=white"></a>
+</p>
+
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary></ul></div>
+<p>
+<a href="https://www.windows.com/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%23008CBA.svg?&logo=windows&logoColor=white"></a>
+<a href="https://www.apple.com/"><img alt="macOS" src="https://img.shields.io/badge/macOS-%23000000.svg?&logo=apple&logoColor=white"></a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h3>Where to find me</h3>
 <!--icons and links-->
 <p align="center">
