@@ -1,6 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>I'm Mohamed Nasr, a Data Engineer who loves playing Sudoku and writing code.</p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3>About Me</h3>
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" width = 450px></picture>
@@ -10,7 +13,7 @@
 - :student: I’m currently learning `Data Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/16mA5U_CPrp2kPqGLeEMLFCfmyaxL7UVj/edit?usp=sharing&ouid=107390724594159932325&rtpof=true&sd=true).
-
+<br/>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
