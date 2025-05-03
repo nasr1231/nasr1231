@@ -17,20 +17,7 @@
 
 <!-- Github Streak stats-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nasr1231&theme=tokyonight_duo" alt="i-godz" /></p></details>
-
-
-<!-- Github account stats -->
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mohamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasr1231&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasr1231&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohamed nasr" height="230px"/>
-<br/>
-	
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nasr1231&theme=tokyonight_duo" alt="Mohamed Nasr" /></p></details>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
