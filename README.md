@@ -80,25 +80,15 @@
 
 <p>
 <a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/></a>
-  
 <a href="https://spark.apache.org/docs/latest/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/></a>
-
 <a href="https://kestra.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Kestra-4F46E5?style=for-the-badge&logo=kestra&logoColor=white" alt="Kestra"/></a>
-
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  
 <a href="https://docs.getdbt.com/" target="_blank"><img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/></a>
-
 <a href="https://learning.postman.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-
 <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-
 <a href="https://jupyter-notebook.readthedocs.io/en/stable/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/></a>
-
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
-
 <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
 <a href="https://docs.n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-4E8EE0?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
 </p>
 
