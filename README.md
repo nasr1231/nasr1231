@@ -1,14 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>I'm Mohamed Nasr, a Data Engineer who loves playing Sudoku and writing code.</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h3>About Me</h3>
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" width = 350px></picture>
-<br><br>
-- :school: I am a `Graduate` From [Faculty of Business Information Systems (BIS)](https://www.facebook.com/BIS.FCBA.Helwan.uni) at [Helwan University]
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" width = 450px></picture>
+<br>
+- :school: I am a `Graduate` From [Faculty of Business Information Systems (BIS)](https://www.facebook.com/BIS.FCBA.Helwan.uni) at Helwan University
 - :technologist: I love technology and seek to be a Silicon Valley geek.
 - :student: I’m currently learning `Data Engineering`.
 - :nerd_face: Always `learning new things`.
