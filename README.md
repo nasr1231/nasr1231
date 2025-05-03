@@ -9,9 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>About Me</h3>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
+<br>
 
 - :school: I am a `Graduate` From [Faculty of Business Information Systems (BIS)](https://www.facebook.com/BIS.FCBA.Helwan.uni) at [Helwan University]
 - :technologist: I love technology and seek to be a Silicon Valley geek.
