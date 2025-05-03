@@ -1,10 +1,8 @@
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+Hello;Mohamed+Nasr" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+Hey!;Nice+to+see+you" alt="Title GitHub Readme" />
   </a>
 </h1>
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>I'm Mohamed Nasr, a Data Engineer who loves playing Sudoku and writing code.
 <h3>Things I code with</h3>
