@@ -6,9 +6,7 @@
 
 <h3>About Me</h3>
 
-<picture>
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" width="450px">
-</picture>
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" width = " 450px"></picture>
 <br>
 - :school: I am a `Graduate` From [Faculty of Business Information Systems (BIS)](https://www.facebook.com/BIS.FCBA.Helwan.uni) at Helwan University
 - :technologist: I love technology and seek to be a Silicon Valley geek.
@@ -98,4 +96,3 @@
 <div id="user-content-toc"><ul align="center"><summary><h3 style="display: inline-block">Watch a 🐍 Snake Eating my Contributions Graph</h3></summary></ul></div>
 <p align = "center"><img src = "https://github.com/i-godz/i-godz/blob/main/grid-snake.svg?" alt = "Snake Game"/></p>
 </p>
-
