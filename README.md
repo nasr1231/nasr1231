@@ -74,8 +74,8 @@
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary></ul></div>
 <p>
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+
+<img alt="Docker" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F39D2B.svg?&logo=jupyter&logoColor=white"></a>
 <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC.svg?&logo=trello&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
