@@ -7,6 +7,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>I'm Mohamed Nasr, a Data Engineer who loves playing Sudoku and writing code.</p>
 
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="650"/>
+</p>
 
 <h3>About Me</h3>
 
@@ -15,9 +18,7 @@
 
 <h3>Stats you may like</h3>
 
-<!-- Github Streak stats-->
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nasr1231&theme=tokyonight_duo" alt="Mohamed Nasr" /></p></details>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
