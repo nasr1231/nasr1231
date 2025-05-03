@@ -76,13 +76,7 @@
 <a href="https://support.microsoft.com/en-us/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="left">
-  <summary>
-    <h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2>
-  </summary>
-  </ul>
-</div>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary></ul></div>
 
 <p>
 <a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/></a>
