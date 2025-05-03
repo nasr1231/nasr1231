@@ -49,12 +49,15 @@
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary></ul></div>
 <p>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-<a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
-<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-29ABCA?logo=pandas&logoColor=fff&style=flat"></a>
-<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%230077B5.svg?&logo=numpy&logoColor=white"></a>
-<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%232768A2.svg?&logo=matplotlib&logoColor=white"></a>
-<a href="https://scikit-learn.org/stable/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23007ACC.svg?&logo=scikit-learn&logoColor=white"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
+<a href="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://numpy.org/doc/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+<a href="https://docs.pytest.org/en/stable/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/></a>
 </p>
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary></ul></div>
@@ -74,6 +77,42 @@
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary></ul></div>
 <p>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://airflow.apache.org/docs/" target="_blank">
+  <img alt="Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</a>
+
+<a href="lhttps://docs.getdbt.com/" target="_blank">
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+</a>
+
+<a href="https://spark.apache.org/docs/latest/" target="_blank">
+  <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
 
 <a href="https://docs.docker.com/" target="_blank">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
