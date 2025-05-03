@@ -8,7 +8,28 @@
 <p>I'm Mohamed Nasr, a Data Engineer who loves playing Sudoku and writing code.</p>
 
 
-<h3>Open source projects</h3>
+<h3>About Me</h3>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3>Stats you may like</h3>
+
+<!-- Github Streak stats-->
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
+
+
+<!-- Github account stats -->
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="i-godz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-godz&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-godz&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="i-godz" height="230px"/>
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
