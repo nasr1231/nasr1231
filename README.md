@@ -1,9 +1,3 @@
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Mohamed+Nasr" alt="Title GitHub Readme" />
-  </a>
-</h1>
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>I'm Mohamed Nasr, a Data Engineer who loves playing Sudoku and writing code.</p>
 
@@ -11,14 +5,19 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="650"/>
 </p>
 
-<h3>About Me</h3>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>Stats you may like</h3>
+<h3>About Me</h3>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br><br>
 
+- :school: I am a `Graduate` From [Faculty of Business Information Systems (BIS)](https://www.facebook.com/BIS.FCBA.Helwan.uni) at [Helwan University]
+- :technologist: I love technology and seek to be a Silicon Valley geek.
+- :student: I’m currently learning `Data Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/16mA5U_CPrp2kPqGLeEMLFCfmyaxL7UVj/edit?usp=sharing&ouid=107390724594159932325&rtpof=true&sd=true).
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
