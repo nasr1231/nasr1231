@@ -76,17 +76,9 @@
 <p>
 
 <a href="https://docs.docker.com/" target="_blank">
-  <img alt="Docker" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
-<a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F39D2B.svg?&logo=jupyter&logoColor=white"></a>
-<a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC.svg?&logo=trello&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
-<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
-<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23181717.svg?&logo=pycharm&logoColor=white"></a>
-<a href="https://discordapp.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white"></a>
-<a href="https://www.stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&logo=stack-overflow&logoColor=white"></a>
-<a href="https://www.w3schools.com/"><img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-%231E84D0.svg?&logo=w3schools&logoColor=white"></a>
-<a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%236495ED.svg?&logo=geeksforgeeks&logoColor=white"></a>
+
 </p>
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary></ul></div>
