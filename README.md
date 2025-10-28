@@ -49,8 +49,6 @@
 <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 <a href="https://docs.snowflake.com/en/" target="_blank"><img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/></a>
-<a href="https://learn.microsoft.com/en-us/azure/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/></a>
-<a href="https://cloud.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
 </p>
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🎨 BI & Visualization</h2></summary></ul></div>
