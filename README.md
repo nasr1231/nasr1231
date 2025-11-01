@@ -13,7 +13,7 @@
 - :technologist: I love technology and seek to be a Silicon Valley geek.
 - :student: I’m currently learning `Data Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/16mA5U_CPrp2kPqGLeEMLFCfmyaxL7UVj/edit?usp=sharing&ouid=107390724594159932325&rtpof=true&sd=true).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1IsGVdz_42M4FC6a5VbE-ZwsFW2O9wSwE/view?usp=sharing).
 <br/>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
