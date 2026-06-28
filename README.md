@@ -9,11 +9,9 @@
 <h3>About Me</h3>
 <br/>
 
-- :school: I am a `Graduate` From [Faculty of Business Information Systems (BIS)](https://www.facebook.com/BIS.FCBA.Helwan.uni) at Helwan University
+- 👨‍💼 Data Engineer at Commerical International Bank - CIB.
 - :technologist: I love technology and seek to be a Silicon Valley geek.
-- :student: I’m currently learning `Data Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ctS75jMRdNoAsOf17K6yxTdcxY5jjd7o/view?usp=sharing).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1ctS75jMRdNoAsOf17K6yxTdcxY5jjd7o/view?usp=sharing).
 <br/>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
